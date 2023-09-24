@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Riel77
-- 👀 I’m interested in building Custom ROM
+- 👀 I’m interested in building AI model
 - 🌱 I’m currently learning everything
 - 📫 How to reach me [Telegram](https://t.me/Riel77)
 
